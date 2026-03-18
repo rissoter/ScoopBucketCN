@@ -1,9 +1,9 @@
 {
-    "version": "2025.02.23",
+    "version": "2025.06.30",
     "description": "A utility that brings browser-style tabbed window management to the desktop.",
     "homepage": "https://github.com/leafOfTree/WindowTabs",
     "license": "MIT",
-    "url": "https://github.com/leafOfTree/WindowTabs/releases/download/v2025.02.23/WindowTabs.exe",
+    "url": "https://github.com/leafOfTree/WindowTabs/releases/download/v2025.06.30/WindowTabs.exe",
     "shortcuts": [
         [
             "WindowTabs.exe",
